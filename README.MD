@@ -13,3 +13,6 @@ The aim of this project is to analyse the [Kaggle Titanic dataset](https://www.k
 3. Can we detect the port where the richest passengers embarked? How much would the median price for this subset of passengers worth now?
 4. What was the survival rate for men, women and children? Was sex correlated to survival rate?
 5. What was the survival rate among different ticket classes? Was ticket class correlated to survival rate?
+
+## Results
+The results are saved in the [Jupyter notebook file](Titanic%20Dataset.ipynb) in the repository. Enjoy!
