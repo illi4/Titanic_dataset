@@ -15,4 +15,4 @@ The aim of this project is to analyse the [Kaggle Titanic dataset](https://www.k
 5. What was the survival rate among different ticket classes? Was ticket class correlated to survival rate?
 
 ## Results
-The results are saved in the [Jupyter notebook file](Titanic_Dataset.ipynb) in the repository. Enjoy!
+The results are saved in the [Jupyter notebook file](Titanic_Dataset.ipynb) in the repository. An html version is available [here](Titanic_Dataset.html)
